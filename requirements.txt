@@ -1,0 +1,4 @@
+pytube
+requests
+discord.py
+pynacl
